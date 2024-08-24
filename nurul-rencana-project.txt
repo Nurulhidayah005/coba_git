@@ -6,5 +6,6 @@ Tujuan aplikasi
 - diagram flow 
 - Fitur 
 desain
-- backend
-- front end
+low fiedlity, figma, prototype(template admin lte(berbasis dashboard), sp admin) 
+Implementasi
+Uji coba
