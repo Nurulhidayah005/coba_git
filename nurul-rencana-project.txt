@@ -1,4 +1,8 @@
 Rencana Projeet
 
 analisis
+Tujuan aplikasi
+- Flow bisnis(harus jelas menentukan semuanya)
+- diagram flow 
+- Fitur 
 desain
