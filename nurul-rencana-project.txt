@@ -11,3 +11,4 @@ uji coba (testing)
 pengelolaan (maintenance)sss
 - waterfall =  butuh analisis matang diawal
 - jel = penyumparnaan ditahap
+
