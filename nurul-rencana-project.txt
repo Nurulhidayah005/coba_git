@@ -6,3 +6,5 @@ Tujuan aplikasi
 - diagram flow 
 - Fitur 
 desain
+- backend
+- front end
