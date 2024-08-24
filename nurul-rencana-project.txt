@@ -5,7 +5,10 @@ Tujuan aplikasi
 - Flow bisnis(harus jelas menentukan semuanya)
 - diagram flow 
 - Fitur 
-desain
-low fiedlity, figma, prototype(template admin lte(berbasis dashboard), sp admin) 
-Implementasi
-Uji coba
+desain (design) : low fiedlity, figma, prototype(template admin lte(berbasis dashboard), sp admin) 
+implementasi (implementation): dibuat codingannya
+uji coba (testing)
+pengelolaan (maintenance)sss
+- waterfall =  butuh analisis matang diawal
+- jel = penyumparnaan ditahap
+
