@@ -8,3 +8,6 @@ Tujuan aplikasi
 desain
 - backend
 - front end
+pengelolaan (maintenance)sss
+- waterfall =  butuh analisis matang diawal
+- jel = penyumparnaan ditahap
